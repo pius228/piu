@@ -1,0 +1,51 @@
+.white-th{
+  background: #fff;
+  color: #000;
+}
+.theme__btn_white{
+  border: 1px solid #000 !important;
+  display: block;
+}
+.menu__item a{
+  color: #000;
+}
+.logo{
+  background: url('../img/logo1.svg') no-repeat;
+  width: 57px;
+}
+#cursor{
+  background: #000;
+}
+#aura{
+  border: 1px solid rgba(0, 0, 0, 0.72);
+  background: rgba(0, 0, 0, 0.1);
+}
+.home-section-wh{
+  background: url('../img/map.svg') no-repeat center top / cover;
+}
+.burger-btn::before,
+.burger-btn::after,
+.burger-btn span{
+  background-color: #000;
+}
+.benefit__item{
+  background: #fff;
+  box-shadow: 0px 4px 34px rgba(0, 0, 0, 0.25);
+  
+}
+.benefit__text{
+  color: #000;
+}
+.benefit__title{
+  color: blueviolet;
+}
+.wrapper__text{
+  border-bottom: 8px solid #9C29DF;
+}
+::placeholder{
+  color: #000;
+  opacity: 0.6;
+}
+.input__item,.input__item_area{
+  color: #000;
+}

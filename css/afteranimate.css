@@ -1,0 +1,7 @@
+.benefit__item{
+  transition: all 0.5s ease !important;
+}
+.benefit__item:hover{
+  transform: scale(1.05) !important;
+  transition: all 0.5s ease !important;
+}
